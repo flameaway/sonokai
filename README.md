@@ -4,7 +4,7 @@
 
 <h2>Installation</h2>
 
-If you are using nvim put in your init.vim folder
+If you are using nvim put this in your init.vim folder
 
 ```
 Plug 'https://github.com/flameaway/sonokai'
