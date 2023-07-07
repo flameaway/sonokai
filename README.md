@@ -12,4 +12,4 @@ Plug 'https://github.com/flameaway/sonokai'
 let g:sonokai_style = 'shusia'
 let g:sonokai_better_performance = 1
 let g:lightline = {'colorscheme' : 'sonokai'}
-''`
+```
